@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\digitalclock.obj" 
+TO ".\Objects\digitalclock" 
+PRINT(".\Listings\digitalclock.m51") RAMSIZE(64) 
